@@ -1,9 +1,5 @@
 ./*
-
 Author Name: Dadayakkara Dewege Poorna
-
-
-
 */
 
 #include <stdio.h>
