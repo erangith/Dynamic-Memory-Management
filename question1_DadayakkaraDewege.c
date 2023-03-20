@@ -2,9 +2,7 @@
 
 Author Name: Dadayakkara Dewege Poorna
 
-Student ID : 100162693
 
-Date: 09 March 2023
 
 */
 
@@ -122,18 +120,4 @@ int main(void) {
   return 0;
 }
 
-/*
-  (1)Can you assign to an index value that is outside of the amount of
-      memory you specified?
-Think,when we assigned size as 4 and index value is 8,at that time,this give
-us a error message with saying "Invalid index.The index you entered has not
-lied between size and 0".Because 8 is greater than size(memory)
 
-  (2)What happens when you try to get information from an index where you haven't
-     stored any data?
-when you have not assigned to values for index,at that time,you will receive an empty
-or null response because for that index,you have not  assigned any value previously".
-
-
-for above questions,you can see the screenshot which I have attached.
-*/
